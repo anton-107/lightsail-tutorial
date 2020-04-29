@@ -1,0 +1,1 @@
+yum install jq openssh-clients -y
